@@ -5,7 +5,7 @@
 * Eduardo Gaxiola "email@csu.fullerton.edu"
 * Chen "Type Last Name" "email@csu.fullerton.edu"
 * Jonathan Gaytan jagaytan@csu.fullerton.edu
-* "Type Name" "email@csu.fullerton.edu"
+* Gerardo Robledo gerardo.robledo99@csu.fullerton.edu
 
 # CPSC 335 - Algorithm Engineering
 # Spring 2023
